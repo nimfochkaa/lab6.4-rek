@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  6.4.cpp
+D:\vs project\6.4 рек\6.4 рек\6.4.cpp(7,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/6.4.cpp')
+  
+     Creating library D:\vs project\6.4 рек\x64\Debug\6.4.lib and object D:\vs project\6.4 рек\x64\Debug\6.4.exp
+  6.4.vcxproj -> D:\vs project\6.4 рек\x64\Debug\6.4.dll
